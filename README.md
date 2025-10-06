@@ -79,7 +79,7 @@ Report/Superstore_Sales_Analysis.pbix: The final, interactive report file.
 
 Data/Superstore_Data_Source.csv: The clean input data set.
 
-Presentation/Superstore_Analysis_Description.pdf: The Analysis Presentation/Description file
+Presentation/Superstore Sales Report (Description).pdf: The Analysis Presentation/Description file
 
 🔑 Key DAX Measure Snippet
 To demonstrate the technical complexity:
