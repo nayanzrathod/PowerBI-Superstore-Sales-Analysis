@@ -109,10 +109,6 @@ RETURN
 
 
 
-📝 Setup and Use
-Clone the Repository:
-
-git clone [https://github.com/](https://github.com/)[Your_GitHub_Username]/PowerBI-Superstore-Sales-Analysis.git
 
 
 
