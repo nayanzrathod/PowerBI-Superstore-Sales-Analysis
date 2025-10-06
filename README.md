@@ -77,11 +77,9 @@ Standard flat-file data source (included for reference).
 📁 Repository Contents
 Report/Superstore_Sales_Analysis.pbix: The final, interactive report file.
 
-DAX/Dynamic_Title_Measure.dax: The custom DAX measure code.
-
 Data/Superstore_Data_Source.csv: The clean input data set.
 
-Docs/Data_Model_Diagram.png: Image of the star or snowflake schema used in the model.
+Presentation/Superstore_Analysis_Description.pdf: The Analysis Presentation/Description file
 
 🔑 Key DAX Measure Snippet
 To demonstrate the technical complexity:
