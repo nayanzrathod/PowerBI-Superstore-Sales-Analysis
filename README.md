@@ -111,10 +111,7 @@ RETURN
 
 
 
-
 Open the Report: Open the Superstore_Sales_Analysis.pbix file using Power BI Desktop.
 
-Explore Interactivity: Test the dynamic title by making multiple selections in the date, region, and product slicers.
-
-Created by
+Explore Interactivity: Test the dynamic title by drillthrough
 
